@@ -1,18 +1,5 @@
-# ADVANCED-ENCRYPTION-TOOL-TASK4
+# ADVANCED-ENCRYPTION-TOOL
 
-PENETRATION-TESTING-TOOLKIT
-
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME:NITHA ZACHARIAH
-
-INTERN ID: CT04DF211
-
-DOMAIN: CYBER SECURITY AND ETHICAL HACKING
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
 
 DESCRIPTION " As part of the task titled Advanced Encryption Tool, I developed a Python-based application to securely encrypt and decrypt files using the AES (Advanced Encryption Standard) algorithm. With step-by-step guidance, I first set up the project environment and installed the required cryptography library. I then created a script that could generate a secure encryption key (secret.key), which would later be used to lock and unlock files. The tool provided a simple, menu-based interface that allowed users to choose between generating a key, encrypting a file, decrypting a file, or exiting the program. I tested the tool using sample files like message.txt, which I placed in the same folder as the script. On encrypting a file, it generated a new .enc file, and when I decrypted it, a .dec version with the original contents was produced. This helped me understand how symmetric key encryption works and how data confidentiality is maintained using AES. I also learned how Fernet (from the cryptography module) ensures secure key handling and encryption under the hood. This project gave me hands-on experience in building practical encryption tools, managing secure keys, and protecting sensitive information through cryptographic techniques.
 
